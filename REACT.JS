@@ -17,6 +17,13 @@ https://liaogg.medium.com/its-time-to-stop-using-create-react-app-a99917dbfc
 npm create vite@latest
 React install is a better way.
 
+
+----------------------------------------------------------
+https://recoiljs.org/docs/introduction/getting-started/
+https://radixweb.com/blog/nextjs-vs-react
+-----------------------------------------------------------
+
+
 -------------------
 Js For React
 -------------------
