@@ -1,5 +1,6 @@
 ------------------------------------------------------------------------------------------
 https://www.freecodecamp.org/news/how-to-become-a-junior-software-engineer-in-6-months/
+https://fullstackopen.com/en/about/
 ------------------------------------------------------------------------------------------
 -----------------------------
 NARAINE PATH - 80 DAYS
