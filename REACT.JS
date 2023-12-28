@@ -17,6 +17,10 @@ https://liaogg.medium.com/its-time-to-stop-using-create-react-app-a99917dbfc
 npm create vite@latest
 React install is a better way.
 
+------------
+Comparison
+------------
+https://www.browserstack.com/guide/angular-vs-react-vs-vue 
 
 ----------------------------------------------------------
 https://recoiljs.org/docs/introduction/getting-started/
