@@ -1,1 +1,43 @@
+-----------------------------
+NARAINE PATH - 80 DAYS
+-----------------------------
+Jan 01 - March 20 [daily 7hrs]
+-----------------------------
+Html + Browser = 2 days
+-----------------------------
+Css3 = 3 Days
+-----------------------------
+Scss Sass = 2 days
+-----------------------------
+BS5 = 3 days
+-----------------------------
+TW = 3 days
+-----------------------------
+Git + Github = 2 days
+-----------------------------
+Vanila JS = 5 days
+-----------------------------
+JqueryJs + Website support
+Js Libraries = 6 days
+-----------------------------
+ReactJs = 7 days
+-----------------------------
+NodeJs = 4 days
+-----------------------------
+TS = 2 days
+-----------------------------
+API / Postman / Browser = 3 Days
+-----------------------------
+PHP = 4 days
+----------------------------
+SQL MySQL = 4 days
+----------------------------
+DBMS = 4 days
+----------------------------
+
+
+
+
+
+
 https://www.freecodecamp.org/news/how-to-become-a-junior-software-engineer-in-6-months/
