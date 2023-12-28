@@ -22,7 +22,18 @@ React install is a better way.
 https://recoiljs.org/docs/introduction/getting-started/
 https://radixweb.com/blog/nextjs-vs-react
 -----------------------------------------------------------
-
+File Structure
+---------------------------
+localhost , 3000
+Reactjs - File Structure
+node_modules = dependencies via npm/nextjs
+public = html + favicons + Files in html meta tag
+scr = components + All css + jsx 
+All App.js is load on index.js -> index.html
+.gitignore = files and folders ignored by git 
+package.json = project configuration
+package-lock.json = npm packages configuration
+readme.md = Read the files for documentational references
 
 -------------------
 Js For React
