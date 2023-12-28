@@ -18,3 +18,9 @@ yarn --version
 Form Validation
 ------------------
 https://www.toptal.com/nodejs/smart-node-js-form-validation 
+
+
+-----------------------
+MySQL Data with NodeJS
+------------------------
+https://stackoverflow.com/questions/50448214/inserting-form-data-into-mysql-database-when-using-nodejs-express
