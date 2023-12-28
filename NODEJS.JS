@@ -12,3 +12,9 @@ command -> sudo cp -r node/{bin,include,lib,share} /usr/ which install the local
 yarn-> alternative -> https://www.copycat.dev/blog/yarn-vs-npm/  , https://www.hostinger.com/tutorials/how-to-install-yarn  
 sudo npm install --global yarn 
 yarn --version
+
+
+------------------
+Form Validation
+------------------
+https://www.toptal.com/nodejs/smart-node-js-form-validation 
