@@ -71,6 +71,11 @@ AJAX
 ----------------
 https://legacy.reactjs.org/docs/faq-ajax.html 
 
+-----------------
+Hooks
+-----------------
+https://www.freecodecamp.org/news/how-to-use-settimeout-in-react-using-hooks/
+
 ---------------
 Projects
 ---------------
