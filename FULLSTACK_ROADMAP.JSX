@@ -42,18 +42,24 @@ AWS + Jenkins = 4 days
 ----------------------------
 
 -----------------------------------------------
-Javascript Path
+naraine-developer.website Path
 -----------------------------------------------
+ETA = Jan 31st
 
-
-
-
-
+Common = Preloader / Top Button / Header / Footer / Color / Font
+Home page =  Intro section / Work Experience / Skill Sets / Education / Achieved / Explore to other pages
+Contact = Form / Details / Validation
+Front End = Overview + Js + Js libraries + Css + Html + Projects
+React Js = Overview + Install + issues faced + Projects
+BackEnd/DBMS = Nodejs + MongoDB 
+Personal = Hobbies + Movies + Songs
+Sports = Boxing + Cricket 
+Family + Friends = Explore it + Gallery
 
 -----------------------------------------------
-ReactJS Path
+LMS Path
 -----------------------------------------------
-
+https://syndicode.com/blog/how-to-build-a-learning-management-system/
 
 
 
