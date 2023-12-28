@@ -43,3 +43,14 @@ Styling - Emotion / Styled / Tailwind / Mantine , API calls -
 GraphQL[Apollo,Relay] / REST [react-query , Axios, SWR] , Testing [Cypress,Jest] ,
 Frameworks - Remix / NextJS , Forms [React hook Forms , Final Form, Suspense , 
 Portals , error boundaries] , Mobile Apps [React native]
+
+---------------
+AJAX
+----------------
+https://legacy.reactjs.org/docs/faq-ajax.html 
+
+---------------
+Projects
+---------------
+https://reactjsexample.com/ 
+https://refine.dev/blog/react-admin-panel/#adding-resources-and-connect-pages-to-refine-app - Admin Panel React
