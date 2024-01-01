@@ -3,11 +3,14 @@ https://www.freecodecamp.org/news/how-to-become-a-junior-software-engineer-in-6-
 https://fullstackopen.com/en/about/
 ------------------------------------------------------------------------------------------
 -----------------------------
-NARAINE PATH - 80 DAYS
+NARAINE FRONT END PATH 
+- 59 DAYS
 -----------------------------
-Jan 01 - March 20 [daily 7hrs]
+Jan 02 - Feb 28 [daily 2hrs]
 -----------------------------
-Html + Browser = 2 days
+Html5 + Browser + Layer [DNS
++ Server + FTP + Cpanel]
+= 3 days
 -----------------------------
 Css3 = 3 Days
 -----------------------------
@@ -57,10 +60,26 @@ Personal = Hobbies + Movies + Songs
 Sports = Boxing + Cricket 
 Family + Friends = Explore it + Gallery
 
------------------------------------------------
-LMS Path
------------------------------------------------
+-----------------------
+Python + BACKEND + 
+App Dev - Jan 31 to Feb 
+29 - 30 Days
+-----------------------
+Basics - 3 days 
+-----------------------
 https://syndicode.com/blog/how-to-build-a-learning-management-system/
+- 4 days
+-----------------------
+React Native Basics - 
+5 days 
+----------------------
+Python Videos - 
+10 days
+---------------------
+React Native Projects
+- 8 days
+---------------------
+
 
 
 
