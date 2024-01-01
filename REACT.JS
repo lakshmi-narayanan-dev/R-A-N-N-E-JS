@@ -12,10 +12,38 @@ and open the terminal cd folder name && code . && npm start.
 Alternative method from CRA:
 4. https://medium.com/@dawid.niegrebecki/create-react-app-is-dead-what-to-use-instead-fcdd46b70295#:~:text=It%20was%20the%20easiest%20way,solution%20for%20creating%20React%20applications. 
 
+
+----------
+yarn
+----------
+yarn --version
+yarn create-react-app Foldername
+cd Folder
+yarn start
+
 https://liaogg.medium.com/its-time-to-stop-using-create-react-app-a99917dbfc  
 
 npm create vite@latest
 React install is a better way.
+
+-----------------
+What is ReactJS
+----------------
+Open source JS library
+SPA single page application - UI
+view layer in mobile & web application
+
+Highlights >>
+-----------
+virtual DOM instead of Real DOM , real DOM manipulation is so expensive.
+Server Side Rendering 
+Follow 1 Way Data Binding / Unidirectional Flow
+
+JSX
+----
+react is written in jsx = js + html
+browser cannot understand jsx
+babel [js compiler] converts jsx to browser understandable js
 
 --------------------------------
 ROADMAP.SH
@@ -54,16 +82,14 @@ QL
 --------------------------------
 
 
-
-
 ------------
 Comparison
 ------------
 https://www.browserstack.com/guide/angular-vs-react-vs-vue 
-
-----------------------------------------------------------
 https://recoiljs.org/docs/introduction/getting-started/
 https://radixweb.com/blog/nextjs-vs-react
+
+
 -----------------------------------------------------------
 File Structure
 ---------------------------
@@ -77,6 +103,15 @@ All App.js is load on index.js -> index.html
 package.json = project configuration
 package-lock.json = npm packages configuration
 readme.md = Read the files for documentational references
+
+Under Scr
+---------
+Assets = Images , BS/TW
+utilities = Hooks , Function , Tests
+Features = index.js , Contact page
+Components = Buttons , CTA , Animation
+API = Auth.js , Post.js
+
 
 -------------------
 Js For React
