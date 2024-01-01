@@ -17,6 +17,45 @@ https://liaogg.medium.com/its-time-to-stop-using-create-react-app-a99917dbfc
 npm create vite@latest
 React install is a better way.
 
+--------------------------------
+ROADMAP.SH
+--------------------------------
+CLI Tools = yarn CRA Ink-CLI
+--------------------------------
+Components = Class , Functional
+Bacis - JSX , Props vs state , 
+conditional rendering composition
+--------------------------------
+Rendering = Component Life Cycle, 
+List and keys , Render Props , 
+Events , Refs , Higher order 
+components 
+--------------------------------
+Hooks - Use State , Use Effect
+--------------------------------
+Custom Hooks - useCallBack , 
+useRef , useMemo , useReducer ,
+useContext
+--------------------------------
+Routers = React Router
+--------------------------------
+State Management = Recall , Mobx,
+Redux toolkit , Context , Zensland
+--------------------------------
+Styling =  Tailwind , Styled 
+Components , Emotion
+--------------------------------
+Framework = NextJS
+--------------------------------
+Forms = React Hooks Forms
+--------------------------------
+API Calls = REST , AXIOS , Graph
+QL 
+--------------------------------
+
+
+
+
 ------------
 Comparison
 ------------
@@ -34,7 +73,7 @@ node_modules = dependencies via npm/nextjs
 public = html + favicons + Files in html meta tag
 scr = components + All css + jsx 
 All App.js is load on index.js -> index.html
-.gitignore = files and folders ignored by git 
+.gitignore = mentioned files and folders ignored by git 
 package.json = project configuration
 package-lock.json = npm packages configuration
 readme.md = Read the files for documentational references
