@@ -9,9 +9,19 @@ scripts to execute react project
 3. Once installation is completed , happy hacking ! message will be displayed
 and open the terminal cd folder name && code . && npm start.
 
-Alternative method from CRA:
-4. https://medium.com/@dawid.niegrebecki/create-react-app-is-dead-what-to-use-instead-fcdd46b70295#:~:text=It%20was%20the%20easiest%20way,solution%20for%20creating%20React%20applications. 
+----------------
+Why ?
+---------------
+1. CRA is bulk & slow.
+2. Outdated and insecure.
+3. Plugin Compatibility Issue.
 
+-----------------------------------------
+Since CRA not recommended by React Team
+-----------------------------------------
+1. Vite + reactjs - https://vitejs.dev/
+2. NextJs
+https://hackernoon.com/create-react-app-is-dead-here-are-some-alternatives
 
 ----------
 yarn
@@ -20,11 +30,6 @@ yarn --version
 yarn create-react-app Foldername
 cd Folder
 yarn start
-
-https://liaogg.medium.com/its-time-to-stop-using-create-react-app-a99917dbfc  
-
-npm create vite@latest
-React install is a better way.
 
 -----------------
 What is ReactJS
@@ -48,7 +53,8 @@ babel [js compiler] converts jsx to browser understandable js
 --------------------------------
 ROADMAP.SH
 --------------------------------
-CLI Tools = yarn CRA Ink-CLI
+CLI Tools = yarn CRA Ink-CLI 
+Belle BIT 
 --------------------------------
 Components = Class , Functional
 Bacis - JSX , Props vs state , 
