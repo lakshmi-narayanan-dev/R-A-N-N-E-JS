@@ -1,6 +1,50 @@
+--------------------------
+Morning 8 am to 9 am 
+--------------------------
+Complex topic
+
+--------------------------
+Evening 7.30 pm to 9 pm
+--------------------------
+Projects - Website
+
+-------------------------
+9.30pm to 10.30pm
+-------------------------
+Github + Leetcode + Hackerrank
+
+-----------------
+10.30pm to 11pm
+-----------------
+revise Coding wise
+
+--------------
+11pm to 12am
+--------------
+UPSC Exam
+
+
+
+-------------------------------------
+Realistic Goals - Jan 8 to 21
+-------------------------------------
+Learn > Delete > memory + github + website
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
 ------------------------------------------------------------------------------------------
-https://www.freecodecamp.org/news/how-to-become-a-junior-software-engineer-in-6-months/
-https://fullstackopen.com/en/about/
+
 ------------------------------------------------------------------------------------------
 -----------------------------
 NARAINE FRONT END PATH 
